@@ -1,0 +1,87 @@
+@import url(https://fonts.googleapis.com/css2?family=Heebo:wght@100;200;300;400;500;600;800;900&display=swap);
+
+body {
+  font-family: 'Heebo';
+  background-color: #ffff;  
+}
+.header__div1{
+    display: flex;
+    gap: 33px;
+    margin-left: 1600px;
+    margin-top: 27px;
+    transition: all 1.5s;
+}
+.div1__a{
+    color: black;
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: none;
+}
+.div1__a:hover{
+    color: #FF6464;
+    transition: all 0.5s;
+}
+.div1__a:active{
+    color: #FF6464;
+}
+.div1__a1{
+    color: #FF6464;
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: none;
+}
+.div1__a1:hover{
+    color: #FF6464;
+    transition: all 0.5s;
+}
+.div1__a1:active{
+    color: #FF6464;
+}
+.main{
+    margin-top: 160px;
+    margin-left: 235px;
+}
+.main__h1{
+    font-weight: 700;
+    font-size: 44px;
+    color: #21243D;
+}
+.texts{
+    margin-top: 55px;
+    color: #21243D;
+}
+.div1__h1{
+    font-weight: 500;
+    font-size: 30px;
+}
+.div1__div__time{
+    margin-top: 17px;
+    display: flex;
+    gap: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #21243D;
+}
+.div__time{
+    color: #8695A4;
+}
+.texts__p{
+    font-weight: 400;
+    font-size: 16px;
+}
+.hr{
+    width: 681px;
+    margin-left: 235px;
+    border: 1px solid #E0E0E0;
+}
+.div1__div__time2{
+    margin-top: 17px;
+    display: flex;
+    gap: 30px;
+    font-weight: 400;
+    font-size: 18px;
+    color: #21243D;
+}
+.div2{
+    margin-left: 235px;
+}
