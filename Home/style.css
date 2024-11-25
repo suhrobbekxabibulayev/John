@@ -66,9 +66,10 @@ body {
     padding-left: 50px;
     padding-top: 20px;
 }
-
-
-
+.hr{
+    width: 858px;
+    margin-left: 12px;
+}
 .main{ 
     width: 1892px;
     height: 396px;
@@ -175,6 +176,22 @@ body {
     line-height: 23px;
     padding-bottom: 20px;
 }
-.hr{
-    background-color: #21243D;
+
+.div5{
+    width: 1152px;
+    height: 182px;
+    margin-top: 90px;
+}
+.div5__div1{
+    display: flex;
+    gap: 35px;
+    align-items: center;
+    margin-left: 800px;
+}
+.div5__p{
+    padding-top: 26px;
+    padding-left: 800px;
+}
+.icons{
+    cursor: pointer;
 }

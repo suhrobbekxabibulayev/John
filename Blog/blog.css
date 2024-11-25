@@ -85,3 +85,21 @@ body {
 .div2{
     margin-left: 235px;
 }
+.div5{
+    width: 1152px;
+    height: 182px;
+    margin-top: 90px;
+}
+.div5__div1{
+    display: flex;
+    gap: 35px;
+    align-items: center;
+    margin-left: 800px;
+}
+.div5__p{
+    padding-top: 26px;
+    padding-left: 800px;
+}
+.icons{
+    cursor: pointer;
+}
